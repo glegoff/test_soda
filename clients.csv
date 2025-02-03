@@ -1,0 +1,9 @@
+id,nom,email,sexe,age,date_inscription,enfant
+1,Bob,bob@gmail.com,H,32,2022-01-12,0
+2,Charlie,charlie@yahoo.com,F,45,2022-01-05,2
+3,Eve,eve@outlook.com,F,60,2022-01-21,2
+4,Alice,alice@gmail.com,F,22,2022-01-18,0
+5,David,david.gmail.com,H,30,2022-01-03,0
+6,Alice,alice@gmail.com,F,22,2022-01-18,1
+7,Bob,bob@gmail.com,Homme,32,2022-01-12,0
+8,Ali,ali@gmail.com,H,23,2025-01-12,0
