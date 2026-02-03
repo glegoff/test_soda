@@ -22,12 +22,14 @@ sudo apt upgrade
 
 sudo apt install git
 
+sudo apt install pip
+
 rm -rf test_soda
 
 git clone https://github.com/glegoff/test_soda.git
 ```
 
-`.make.sh`
+`./make.sh`
 
 # test à effectuer
 
