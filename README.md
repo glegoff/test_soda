@@ -14,7 +14,11 @@ Ce projet permet donc de tester en utilisant des fichiers csv qui sont charger d
 sous linux lancer la commande
 
 
-```sudo apt update
+```
+
+sudo apt update
+
+sudo apt upgrade
 
 sudo apt install git
 
