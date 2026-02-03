@@ -14,11 +14,15 @@ Ce projet permet donc de tester en utilisant des fichiers csv qui sont charger d
 sous linux lancer la commande
 
 
-`sudo apt update
+```sudo apt update
+
 sudo apt install git
+
 rm -rf test_soda
+
 git clone https://github.com/glegoff/test_soda.git
-`
+```
+
 `.make.sh`
 
 # test à effectuer
